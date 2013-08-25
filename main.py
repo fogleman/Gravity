@@ -1,10 +1,10 @@
+from pyglet.gl import *
+from pyglet.window import key
 import model
 import overlay
 import pyglet
 import time
 import util
-from pyglet.gl import *
-from pyglet.window import key
 
 WIDTH = 960
 HEIGHT = 640

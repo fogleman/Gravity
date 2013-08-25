@@ -1,8 +1,8 @@
+from pyglet.gl import *
 import math
 import physics
 import random
 import util
-from pyglet.gl import *
 
 PLANETS = [
     'images/earth.png',

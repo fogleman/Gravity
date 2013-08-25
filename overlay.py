@@ -1,5 +1,5 @@
-import Image
-import ImageDraw
+from PIL import Image
+from PIL import ImageDraw
 import math
 import physics
 import pyglet
